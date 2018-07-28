@@ -1,0 +1,2 @@
+# myProjectTrial
+Learning JavaScript
